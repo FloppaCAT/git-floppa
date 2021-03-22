@@ -1,1 +1,2 @@
-Println("Hello World")
+Print("Hello World")
+Print("Hello Floppa!")
