@@ -1,3 +1,6 @@
 Print("Hello World")
 Print("Hello")
 Print("Another Hello")
+Print("Hello my dear")
+Print("Hello my bear")
+Print("Hello my beer")
